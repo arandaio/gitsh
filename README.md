@@ -10,3 +10,8 @@ versión disponible todos los submodulos.
 
 * [git-change-email](git-change-email) cambia el email en todos los commits de
 un mismo autor. ¡Atención! Esta operación destruye el histórico de Git.
+
+
+## License
+
+Copyright (c) 2015 Javier Aranda - Released under [MIT](LICENSE) license
